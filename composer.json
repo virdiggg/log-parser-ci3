@@ -1,0 +1,20 @@
+{
+    "name": "virdiggg/log-parser-ci3",
+    "description": "Log parser for default formatted log file in CodeIgniter 3",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Virdiggg\\LogParserCI3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Virdi Gunawan",
+            "email": "virdigunawann@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
