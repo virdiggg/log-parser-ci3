@@ -1,13 +1,1 @@
-ERROR - 2024-11-13 20:40:37 --> Severity: error --> Exception: Class "Virdiggg\MergeFiles\Merge" not found E:\www\sertifikasi-pak-joko\application\controllers\Home.php 9
-ERROR - 2024-11-13 20:41:53 --> Severity: error --> Exception: Class "Virdiggg\MergeFiles\Merge" not found E:\www\sertifikasi-pak-joko\application\controllers\Home.php 9
-ERROR - 2024-11-13 20:48:00 --> Severity: error --> Exception: Class "Virdiggg\MergeFiles\Merge" not found E:\www\sertifikasi-pak-joko\application\controllers\Home.php 9
-ERROR - 2024-11-13 20:50:54 --> Severity: error --> Exception: Class "Virdiggg\MergeFiles\Merge" not found E:\www\sertifikasi-pak-joko\application\controllers\Home.php 9
-ERROR - 2024-11-13 21:33:54 --> Severity: Warning --> foreach() argument must be of type array|object, int given E:\www\sertifikasi-pak-joko\application\vendor\tecnickcom\tcpdf\include\tcpdf_static.php 530
-ERROR - 2024-11-13 22:16:13 --> Severity: Warning --> getimagesize(E:\www\sertifikasi-pak-joko\assets/GSU_tOlXcAAZ-Hf.jpg): Failed to open stream: No such file or directory E:\www\sertifikasi-pak-joko\application\vendor\virdiggg\merge-files\src\Merge.php 284
-ERROR - 2024-11-13 22:16:13 --> Severity: Warning --> getimagesize(E:\www\sertifikasi-pak-joko\assets/GQgufZNa0AA1FNa.jpg): Failed to open stream: No such file or directory E:\www\sertifikasi-pak-joko\application\vendor\virdiggg\merge-files\src\Merge.php 284
-ERROR - 2024-11-13 22:16:13 --> Severity: Warning --> getimagesize(E:\www\sertifikasi-pak-joko\assets/GQgufZHaAAA6wpF.jpg): Failed to open stream: No such file or directory E:\www\sertifikasi-pak-joko\application\vendor\virdiggg\merge-files\src\Merge.php 284
-ERROR - 2024-11-13 22:16:13 --> Severity: Warning --> getimagesize(E:\www\sertifikasi-pak-joko\assets/F7a_lQVaEAAouT82f362419f4b5346d.jpg): Failed to open stream: No such file or directory E:\www\sertifikasi-pak-joko\application\vendor\virdiggg\merge-files\src\Merge.php 284
-ERROR - 2024-11-13 22:16:13 --> Severity: Warning --> getimagesize(E:\www\sertifikasi-pak-joko\assets/IMG_748640f6a4a62ac60bcb.jpg): Failed to open stream: No such file or directory E:\www\sertifikasi-pak-joko\application\vendor\virdiggg\merge-files\src\Merge.php 284
 ERROR - 2024-11-13 22:16:24 --> 404 Page Not Found: api/Logs/index
-ERROR - 2024-11-13 22:16:32 --> Severity: error --> Exception: Class "Virdiggg\LogViewerCI3\LogViewer" not found E:\www\sertifikasi-pak-joko\application\controllers\api\Logs.php 11
-ERROR - 2024-11-13 22:16:52 --> Severity: error --> Exception: Class "Virdiggg\LogViewerCI3\LogViewer" not found E:\www\sertifikasi-pak-joko\application\controllers\api\Logs.php 11

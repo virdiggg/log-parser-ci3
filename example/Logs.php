@@ -4,7 +4,6 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 use Virdiggg\LogParserCI3\MYViewer;
 
-echo "test!";
 try {
     $logs = new MYViewer();
     $logs->setPath(__DIR__);
